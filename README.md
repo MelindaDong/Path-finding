@@ -3,7 +3,7 @@ BFS / UCS /  A* Search / Pathfinding by direct optimisation (simulated annealing
 
 ### input map
 
-example input map is provided, first line is the size of the map, second line is the start location and the third line is the goal location, the rest is the map, `X` means obstacles.
+example input map is provided, see `map.text`, first line is the size of the map, second line is the start location and the third line is the goal location, the rest is the map, `X` means obstacles. 
 
 ### Problem Formulation
 
