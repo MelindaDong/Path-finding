@@ -18,7 +18,7 @@ $$g\left(P\right)=\sum_{k=1}^Nc\left(i_{k-1},j_{k-1},i_k,j_k,M\right)$$,
 
 where
 
-$c\left(a,b,c,d,M\right)=\begin{cases}1+M\left(c,d\right)-M\left(a,b\right) & if M(c,d) - M(a, b) > 0\\1 & otherwise \end{cases}$
+$$c\left(a,b,c,d,M\right)=\begin{cases}1+M\left(c,d\right)-M\left(a,b\right) & if M(c,d) - M(a, b) > 0\\1 & otherwise \end{cases}$$
 
 and M(a, b) is the elevation at the position (a, b). In words, the cost of a path is the sum of the costs between adjacent points in the path, and the cost between adjacent points is 1 plus the difference between the elevation of the two points if we climb "uphill" or simply 1 if we stay "level" or slide "downhill".
 
