@@ -4,8 +4,8 @@ BFS / UCS /  A* Search / Pathfinding by direct optimisation (simulated annealing
 
 __>>> python pathfinder.py [map] [algorithm] [heuristic]__
 
-- [algorithm] specifies the search algorithm to use, with the possible values of bfs, ucs, and astar.
-- [heuristic] specifies the heuristic to use for A* search, with the possible values of euclidean and manhattan. This input is ignored for BFS and UCS.
+- [algorithm] specifies the search algorithm to use, with the possible values of __bfs__, __ucs__, and __astar__.
+- [heuristic] specifies the heuristic to use for A* search, with the possible values of __euclidean__ and __manhattan__. This input is ignored for BFS and UCS.
 
 
 
