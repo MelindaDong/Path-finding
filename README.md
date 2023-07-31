@@ -42,3 +42,4 @@ The inputs/options to the program are as follows:
 - [alpha] specifies the cooling rate
 - [d] specifies the segment length for random local path adjustments.
 
+*Algorithm Reference Sources: Artificial Intelligence A Modern Approach (Third Edition) --Stuart J. Russell and Peter Norvig*
