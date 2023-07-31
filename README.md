@@ -14,7 +14,7 @@ Transition Model: Moving left moves the current position to the left, etc.
 Goal Test: Check if the current state is the end position (i*, j*) given by the user.
 Path Cost: Given a map M and a Path P{(i0, j0), (i1, j1), ... (iN, jN)}, the cost of the path is calculated as:
 
-$$g\left(P\right)=\sum_{k=1}^Nc\left(i_{k-1},j_{k-1},i_k,j_k,M\right)$$,
+$$g\left(P\right)=\sum_{k=1}^Nc\left(i_{k-1},j_{k-1},i_k,j_k,M\right)$$
 
 where
 
